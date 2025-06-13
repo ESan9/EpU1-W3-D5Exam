@@ -356,9 +356,13 @@ const searchAndDivide = function (arr1, str1) {
   Scrivi una funzione chiamata "removeIndex" che riceve un numero come parametro e ritorna l'array "movies" fornito privo dell'elemento nella posizione ricevuta come parametro.
 */
 
-const removeIndex = function (arr1, num1) {};
-
-// Non ho tempo per finirlo //
+const removeIndex = function (arr1, num1) {
+  const newArray = arr1.slice();
+  if (num1 >= 0 && num1 < newArray.length) {
+    newArray.splice(num1, 1);
+  }
+  return newArray;
+};
 
 // DOM (nota: gli elementi che selezionerai non si trovano realmente nella pagina)
 
