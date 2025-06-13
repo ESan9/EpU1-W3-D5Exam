@@ -358,6 +358,8 @@ const searchAndDivide = function (arr1, str1) {
 
 const removeIndex = function (arr1, num1) {};
 
+// Non ho tempo per finirlo //
+
 // DOM (nota: gli elementi che selezionerai non si trovano realmente nella pagina)
 
 /* ESERCIZIO 20
