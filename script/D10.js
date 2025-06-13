@@ -437,6 +437,7 @@ const aggiungiTestATr = function () {
   });
 };
 
+// Non ho avuto la corrente dalle 12 alle 13, niente extra, see you space cowboy //
 // [EXTRA] JS Avanzato
 
 /* ESERCIZIO 27
